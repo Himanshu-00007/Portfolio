@@ -1,0 +1,137 @@
+*{
+  font-family: 'Poppins', sans-serif;
+}
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.nav-right {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+  }
+  .container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-inline: 7rem;
+    padding-top:10rem;
+  }
+  
+  .theory{
+    width: 100%;
+    max-width: 850px;
+  }
+  .theory1{
+    width: 100%;
+max-width: 850px;
+
+  }
+  .theory1 p{
+    width: 100%;
+max-width: 600px;
+  }
+  .theory span{
+    color: #1111e69c;
+  }
+  .theory p{
+    width: 100%;
+max-width: 600px;
+    margin-bottom: 32px;
+  }
+  .icons{
+    display: flex;
+    flex-wrap: wrap;
+    gap:20px;
+    opacity:0.6;  
+    margin-top: 30px;
+  }
+  .linkedin:hover{
+    color:blue
+  }
+  .github:hover{
+    color:blue
+  }
+  .instagram:hover{
+    color:blue
+  }
+  .email:hover{
+    color:blue
+  }
+  .theory Button{
+    margin-bottom: 30px;
+
+  }
+  .image img{
+    height:400px;
+    width: 100%;
+max-width: 400px;
+    border-radius: 50%;
+  }
+  .bkwas{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap:5px;
+  }
+  .container1{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-inline: 7rem;
+    padding-top:3rem;
+  }
+  .image1 img{
+    height:400px;
+    width:400px;
+    border-radius: 10px;
+  }
+  .container2{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-top:10rem;
+    justify-content: center;
+  }
+  .navbar Button{
+    color:black;
+    font-size: 1rem;
+    font-weight: 600;
+    color:gray;
+    text-transform: none;
+  }
+  .container3{
+    align-items: center;
+    padding-top:10rem;
+    justify-content: center;
+  }
+  .projectcard{
+    padding-inline: 7rem;
+  }
+  .info{
+    width: 100%;
+max-width: 600px;
+    height:600px;
+  }
+  
+  .ui img{
+    height:350px;
+    width: 100%;
+max-width: 600px;
+  }
+  .card{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+max-width: 1200px;
+    height:350px;
+    border: #6366F1 solid 3px ;
+    padding:10px;
+    border-radius: 15px;
+    margin-bottom: 45px;
+  }
+  
+
