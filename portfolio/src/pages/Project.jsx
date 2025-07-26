@@ -66,7 +66,7 @@ export default function Project() {
             <div className="btn">
               <Button style={{ color: '#6366F1', border: "2px solid" }} href="https://github.com/Himanshu-00007/CONNECTLY">Code Base</Button>
               &nbsp;&nbsp;&nbsp;&nbsp;
-              <Button style={{ color: '#6366F1', border: "2px solid" }} href="https://connectlyfrontened.onrender.com">Live Preview</Button>
+              <Button style={{ color: '#6366F1', border: "2px solid" }} href="https://connectly-wc1l.onrender.com/">Live Preview</Button>
             </div>
           </div>
           {!isMobile && (
@@ -110,9 +110,9 @@ export default function Project() {
               Our chatbot is more than just a virtual assistant — it listens, understands...
             </p>
             <div className="btn">
-              <Button style={{ color: '#6366F1', border: "2px solid" }}>Code Base</Button>
+              <Button style={{ color: '#6366F1', border: "2px solid" }} href="https://github.com/Himanshu-00007/IntelliMate">Code Base</Button>
               &nbsp;&nbsp;&nbsp;&nbsp;
-              <Button style={{ color: '#6366F1', border: "2px solid" }}>Live Preview</Button>
+              <Button style={{ color: '#6366F1', border: "2px solid" }} href="https://intellimate-dmzf.onrender.com/">Live Preview</Button>
             </div>
           </div>
           {!isMobile && (
